@@ -1,0 +1,28 @@
+capital = 64 # Berlin
+
+create_faction = Germanische
+add_to_faction = GVA
+
+puppet = GEA
+puppet = GSA
+puppet = DEN
+puppet = NOR
+puppet = HOL
+puppet = BRI
+
+set_politics = {
+	ruling_party = national_socialism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 15
+	conservatism = 10
+	socialism = 27
+	communism = 9
+	fascism = 3
+	national_socialism = 30
+	nationalism = 6
+	neutrality = 0
+}

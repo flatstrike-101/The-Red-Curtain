@@ -1,0 +1,18 @@
+capital = 277 # Mexico City
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1970.7.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	liberalism = 86
+	conservatism = 14
+	socialism = 0
+	communism = 0
+	fascism = 0
+	national_socialism = 0
+	nationalism = 0
+	neutrality = 0
+}

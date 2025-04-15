@@ -1,0 +1,18 @@
+capital = 373 # Kansas City
+
+set_politics = {
+	ruling_party = nationalism
+	last_election = "1966.11.17"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 20
+	conservatism = 10
+	socialism = 29
+	communism = 10
+	fascism = 0
+	national_socialism = 0
+	nationalism = 31
+	neutrality = 0
+}

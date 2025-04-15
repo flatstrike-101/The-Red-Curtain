@@ -1,0 +1,27 @@
+﻿capital = 2 # Rome
+
+create_faction = Med
+add_to_faction = BUL
+add_to_faction = POR
+
+puppet = EGY # Italian Egypt
+puppet = AOI # Italian East Africa
+puppet = GRE # Italian Greece
+puppet = YUG # Italian Yugoslavia
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 0
+	conservatism = 14
+	socialism = 6
+	communism = 12
+	fascism = 56
+	national_socialism = 0
+	nationalism = 10
+	neutrality = 2
+}

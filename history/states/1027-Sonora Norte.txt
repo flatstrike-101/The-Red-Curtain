@@ -1,0 +1,21 @@
+state={
+	id=1027
+	name="STATE_1027"
+	manpower=234602
+
+	state_category = rural
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		add_claim_by = USA
+		add_claim_by = WUS
+	}
+
+	provinces={
+		3834 5044 7920 10783
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

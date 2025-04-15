@@ -1,0 +1,17 @@
+state={
+	id=1020
+	name="STATE_1020"
+	provinces={
+		377 407 11361
+	}
+
+	history = {
+		owner = WLS
+		add_core_of = WLS
+	}
+
+	state_category = city
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
