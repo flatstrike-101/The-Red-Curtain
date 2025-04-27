@@ -1,0 +1,19 @@
+state={
+	id=1028
+	name="STATE_1028"
+
+	state_category = rural
+
+	history={
+		add_core_of = SCO
+		add_core_of = ENG
+		owner = ENG
+	}
+
+	provinces={
+		6320 6350 9237 9350 11218 
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

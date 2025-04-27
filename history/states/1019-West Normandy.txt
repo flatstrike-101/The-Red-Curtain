@@ -1,0 +1,16 @@
+state={
+	id=1019
+	name="STATE_1019"
+	provinces={
+		539 553 3549 3534 3579 6449 6599 9550 9578 11521 11535 
+	}
+	history = {
+		owner = BRI
+		add_core_of = FRA
+		add_core_of = BRI
+	}
+	state_category = rural
+	manpower=300000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
