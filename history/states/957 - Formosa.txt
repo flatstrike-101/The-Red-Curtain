@@ -12,10 +12,9 @@ state = {
 
 	history = {
 
-		owner = ARG
+		owner = BRA
 		add_core_of = ARG
-		add_claim_by = BOL
-		add_claim_by = PAR
+		add_core_of = BRA
 
 		buildings = {
 			infrastructure = 1

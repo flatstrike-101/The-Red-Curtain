@@ -1,5 +1,7 @@
 ﻿capital = 2 # Rome
 
+recruit_character = ITA_count_galeazzo
+
 create_faction = Med
 add_to_faction = BUL
 add_to_faction = POR

@@ -1,0 +1,15 @@
+characters = {
+    HUN_jozsef_mindszenty = {
+		name = HUN_jozsef_mindszenty
+		portraits = {
+			civilian = {
+				large = GFX_portrait_HUN_jozsef_mindszenty
+			}
+		}
+		country_leader = {
+			ideology = religious_nationalism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

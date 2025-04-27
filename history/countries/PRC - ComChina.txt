@@ -1,0 +1,20 @@
+﻿capital = 608 # Beijing
+
+recruit_character = PRC_mao_zedong
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1949.11.17"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 0
+	conservatism = 0
+	socialism = 0
+	communism = 100
+	fascism = 0
+	national_socialism = 0
+	nationalism = 0
+	neutrality = 0
+}

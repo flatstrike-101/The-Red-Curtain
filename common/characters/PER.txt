@@ -1,0 +1,15 @@
+characters = {
+    PER_iraj_eskandari = {
+		name = PER_iraj_eskandari
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PER_iraj_eskandari
+			}
+		}
+		country_leader = {
+			ideology = marxist_leninism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

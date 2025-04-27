@@ -1,0 +1,15 @@
+characters = {
+    POR_marcelo_caetano = {
+		name = POR_marcelo_caetano
+		portraits = {
+			civilian = {
+				large = GFX_portrait_POR_marcelo_caetano
+			}
+		}
+		country_leader = {
+			ideology = salazarism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

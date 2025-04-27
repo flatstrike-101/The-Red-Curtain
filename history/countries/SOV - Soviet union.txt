@@ -1,0 +1,27 @@
+﻿capital = 219 # Moscow
+
+create_faction = swf
+add_to_faction = ROM
+add_to_faction = FIN
+add_to_faction = WUS
+
+puppet = PER
+
+recruit_character = SOV_leonid_brezhnev
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 0
+	conservatism = 0
+	socialism = 0
+	communism = 96
+	fascism = 0
+	national_socialism = 3
+	nationalism = 1
+	neutrality = 0
+}

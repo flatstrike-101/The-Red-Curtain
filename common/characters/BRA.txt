@@ -1,0 +1,15 @@
+characters = {
+    BRA_plinio_salgado = {
+		name = BRA_plinio_salgado
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BRA_plinio_salgado
+			}
+		}
+		country_leader = {
+			ideology = salazarism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

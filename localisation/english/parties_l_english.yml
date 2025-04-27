@@ -1,4 +1,9 @@
 ﻿l_english:
+
+
+  ####################################################################### IDEOLOGIES #######################################################################
+
+
  liberalism:0 "Liberal"
  liberalism_noun:0 "Liberalism"
  liberalism_desc:0 "Liberal Regime"
@@ -44,6 +49,8 @@
  anglo_saxonism_desc:0 "DESCRIPTION TOO BE WRITTEN"
  classical_fascism:0 "Classical Fascism"
  classical_fascism_desc:0 "DESCRIPTION TOO BE WRITTEN"
+ salazarism:0 "Salazarism"
+ salazarism_desc:0 "DESCRIPTION TOO BE WRITTEN"
 
  national_socialism:0 "National-Socialist"
  national_socialism_noun:0 "National-Socialism"
@@ -79,6 +86,10 @@
  centrism:0 "Centrism"
  centrism_desc:0 "DESCRIPTION TOO BE WRITTEN"
 
+
+  ####################################################################### PARTIES #######################################################################
+
+
  GER_liberalism_party:0 "-TBD-"
  GER_conservatism_party:0 "-TBD-"
  GER_socialism_party:0 "KBRNS-S"
@@ -90,3 +101,92 @@
  GER_national_socialism_party_long:0 "Kampfbund Revolutionärer Nationalsozialisten (Main Branch)"
  GER_nationalism_party:0 "-TBD-"
  GER_neutrality_party:0 "-TBD-"
+
+ USA_liberalism_party:0 "Democratic Party"
+ USA_conservatism_party:0 "Republican Party"
+ USA_socialism_party:0  "-TBD-"
+ USA_communism_party:0 "-TBD-"
+ USA_fascism_party:0 "-TBD-"
+ USA_national_socialism_party:0 "-TBD-"
+ USA_nationalism_party:0 "-TBD-"
+ USA_neutrality_party:0 "-TBD-"
+
+ PRC_liberalism_party:0 "-TBD-"
+ PRC_conservatism_party:0 "-TBD-"
+ PRC_socialism_party:0  "-TBD-"
+ PRC_communism_party:0 "CCP"
+ PRC_communism_party_long:0 "Chinese Communist Party"
+ PRC_fascism_party:0 "-TBD-"
+ PRC_national_socialism_party:0 "-TBD-"
+ PRC_nationalism_party:0 "-TBD-"
+ PRC_neutrality_party:0 "-TBD-"
+
+ ITA_liberalism_party:0 "-TBD-"
+ ITA_conservatism_party:0 "-TBD-"
+ ITA_socialism_party:0  "-TBD-"
+ ITA_communism_party:0 "-TBD-"
+ ITA_fascism_party:0 "PNF"
+ ITA_fascism_party_long:0 "Partito Nazionale Fascista"
+ ITA_national_socialism_party:0 "-TBD-"
+ ITA_nationalism_party:0 "-TBD-"
+ ITA_neutrality_party:0 "-TBD-"
+
+ SOV_liberalism_party:0 "-TBD-"
+ SOV_conservatism_party:0 "-TBD-"
+ SOV_socialism_party:0  "-TBD-"
+ SOV_communism_party:0 "CPSU"
+ SOV_communism_party_long:0 "Communist Party of the Soviet Union"
+ SOV_fascism_party:0 "-TBD"
+ SOV_fascism_party_long:0 "-TBD-"
+ SOV_national_socialism_party:0 "-TBD-"
+ SOV_nationalism_party:0 "-TBD-"
+ SOV_neutrality_party:0 "-TBD-"
+
+ PER_liberalism_party:0 "-TBD-"
+ PER_conservatism_party:0 "-TBD-"
+ PER_socialism_party:0  "-TBD-"
+ PER_communism_party:0 "Tudeh Party"
+ PER_fascism_party:0 "-TBD"
+ PER_fascism_party_long:0 "-TBD-"
+ PER_national_socialism_party:0 "-TBD-"
+ PER_nationalism_party:0 "IRP"
+ PER_nationalism_party_long:0 "Islamic Republican Party"
+ PER_neutrality_party:0 "RIRP"
+ PER_neutrality_party_long:0 "The Royalist Imperial Resurrection Party of Iran"
+
+ BUL_liberalism_party:0 "-TBD-"
+ BUL_conservatism_party:0 "-TBD-"
+ BUL_socialism_party:0  "-TBD-"
+ BUL_communism_party:0 "-TBD-"
+ BUL_fascism_party:0 "-TBD"
+ BUL_national_socialism_party:0 "-TBD-"
+ BUL_nationalism_party:0 "-TBD-"
+ BUL_neutrality_party:0 "House of Saxe-Coburg and Gotha-Koháry"
+
+ ENG_liberalism_party:0 "Liberal Democrats"
+ ENG_conservatism_party:0 "Conservative Party"
+ ENG_socialism_party:0  "Labour Party"
+ ENG_communism_party:0 "CPE"
+ ENG_communism_party_long:0 "Communist Party of England"
+ ENG_fascism_party:0 "English Union of Fascists"
+ ENG_national_socialism_party:0 "-TBD-"
+ ENG_nationalism_party:0 "-TBD-"
+ ENG_neutrality_party:0 "English Royalist Faction"
+
+ WLS_liberalism_party:0 "Welsh Liberal Democrats"
+ WLS_conservatism_party:0 "Welsh Conservatives"
+ WLS_socialism_party:0  "Welsh Labour"
+ WLS_communism_party:0 "-TBD-"
+ WLS_fascism_party:0 "-TBD-"
+ WLS_national_socialism_party:0 "-TBD-"
+ WLS_nationalism_party:0 "Plaid Cymru"
+ WLS_neutrality_party:0 "-TBD-"
+
+ IRE_liberalism_party:0 "-TBD-"
+ IRE_conservatism_party:0 "Fianna Fáil"
+ IRE_socialism_party:0  "-TBD-"
+ IRE_communism_party:0 "-TBD-"
+ IRE_fascism_party:0 "-TBD-"
+ IRE_national_socialism_party:0 "-TBD-"
+ IRE_nationalism_party:0 "-TBD-"
+ IRE_neutrality_party:0 "-TBD-"

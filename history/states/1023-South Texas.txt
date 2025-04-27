@@ -1,0 +1,18 @@
+state={
+	id=1023
+	name="STATE_1023"
+	
+	history = {
+		owner = MEX
+		add_core_of = MEX
+	}
+	
+	provinces={
+		1927 1954 2019 2042 4884 4955 5038 5061 6785 6798 6987 8064 10740 10894 12369 12728 12782 
+	}
+	
+	state_category = large_city
+	manpower=6000000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

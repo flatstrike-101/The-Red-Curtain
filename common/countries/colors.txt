@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 71 2 2 }
+	color_ui = rgb { 71 2 2 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -210,8 +210,8 @@ PAN = {
 	color_ui = rgb { 198 169 248 }
 }
 PER = {
-	color = rgb { 71 113 97 }
-	color_ui = rgb { 92 147 126 }
+	color = rgb { 120 18 18 }
+	color_ui = rgb { 120 18 18 }
 }
 PHI = {
 	color = rgb { 152 130 191 }

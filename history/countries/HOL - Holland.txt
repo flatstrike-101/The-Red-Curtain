@@ -1,0 +1,19 @@
+﻿capital = 7 # Amsterdam
+
+set_politics = {
+	ruling_party = national_socialism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 0
+	conservatism = 0
+	socialism = 0
+	communism = 0
+	fascism = 0
+	national_socialism = 100
+	nationalism = 0
+	neutrality = 0
+}
+

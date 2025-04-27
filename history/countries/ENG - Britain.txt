@@ -1,0 +1,20 @@
+capital = 126 # London
+
+recruit_character = ENG_oswald_mosley
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1971.10.20"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+	liberalism = 2
+	conservatism = 2
+	socialism = 17
+	communism = 0
+	fascism = 79
+	national_socialism = 0
+	nationalism = 0
+	neutrality = 0
+}

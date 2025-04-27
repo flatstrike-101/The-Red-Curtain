@@ -1,0 +1,15 @@
+characters = {
+    BUL_tsar_simeon = {
+		name = BUL_tsar_simeon
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BUL_tsar_simeon
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

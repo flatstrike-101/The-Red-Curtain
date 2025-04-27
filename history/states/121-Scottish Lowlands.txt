@@ -2,14 +2,13 @@
 state={
 	id=121
 	name="STATE_121" # Lothian
-	manpower = 1431624
+	manpower = 431624
 	
-	state_category = city
+	state_category = rural
 
 	history={
 		add_core_of = SCO
 		owner = SCO
-		victory_points = { 9392 10 }
 		victory_points = { 6300 1 }
 		buildings = {
 			infrastructure = 4 #was: 7
@@ -23,7 +22,7 @@ state={
 	}
 
 	provinces={
-		159 6300 9314 9383 9392 11378 
+		159 6300 9383
 	}
 
 	local_supplies=0.0 

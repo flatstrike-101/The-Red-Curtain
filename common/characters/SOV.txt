@@ -1,0 +1,15 @@
+characters = {
+    SOV_leonid_brezhnev = {
+		name = SOV_leonid_brezhnev
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_leonid_brezhnev
+			}
+		}
+		country_leader = {
+			ideology = marxist_leninism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

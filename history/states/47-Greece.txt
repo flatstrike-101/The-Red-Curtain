@@ -30,9 +30,6 @@ state={
 		#	976 1
 		#}
 		victory_points = {
-			7127 3
-		}
-		victory_points = {
 			3988 1
 		}
 		buildings = {
@@ -51,7 +48,7 @@ state={
 	}
 
 	provinces={
-		863 976 1109 3864 3973 3988 4109 6930 7127 
+		863 976 1109 3864 3973 3988 4109 6930
 	}
 
 	local_supplies=0.0 

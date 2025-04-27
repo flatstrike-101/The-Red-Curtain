@@ -1,0 +1,22 @@
+﻿capital = 112 # Lisbon
+
+puppet = BRA
+
+recruit_character = POR_marcelo_caetano
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 20
+	conservatism = 11
+	socialism = 10
+	communism = 5
+	fascism = 54
+	national_socialism = 0
+	nationalism = 0
+	neutrality = 0
+}

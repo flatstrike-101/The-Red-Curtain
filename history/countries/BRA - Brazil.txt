@@ -1,0 +1,20 @@
+﻿capital = 500 # Rio de Janeiro
+
+recruit_character = BRA_plinio_salgado
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 0
+	conservatism = 0
+	socialism = 7
+	communism = 0
+	fascism = 70
+	national_socialism = 0
+	nationalism = 23
+	neutrality = 0
+}

@@ -1,0 +1,20 @@
+﻿capital = 46 # Bucharest
+
+recruit_character = ROM_nicolae_ceausescu
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	liberalism = 10
+	conservatism = 6
+	socialism = 11
+	communism = 63
+	fascism = 0
+	national_socialism = 0
+	nationalism = 10
+	neutrality = 0
+}

@@ -1,0 +1,15 @@
+characters = {
+    ITA_count_galeazzo = {
+		name = ITA_count_galeazzo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ITA_count_galeazzo
+			}
+		}
+		country_leader = {
+			ideology = classical_fascism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

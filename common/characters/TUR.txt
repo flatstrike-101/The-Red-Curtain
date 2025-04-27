@@ -1,0 +1,15 @@
+characters = {
+    TUR_fahri_koruturk = {
+		name = TUR_fahri_koruturk
+		portraits = {
+			civilian = {
+				large = GFX_portrait_TUR_fahri_koruturk
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

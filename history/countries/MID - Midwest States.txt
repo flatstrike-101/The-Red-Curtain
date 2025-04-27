@@ -1,4 +1,4 @@
-capital = 373 # Kansas City
+capital = 373 # Saint Louis
 
 set_politics = {
 	ruling_party = nationalism

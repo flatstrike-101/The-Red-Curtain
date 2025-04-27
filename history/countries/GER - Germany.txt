@@ -5,10 +5,11 @@ add_to_faction = GVA
 
 puppet = GEA
 puppet = GSA
-puppet = DEN
 puppet = NOR
 puppet = HOL
 puppet = BRI
+
+recruit_character = GER_otto_strasser
 
 set_politics = {
 	ruling_party = national_socialism

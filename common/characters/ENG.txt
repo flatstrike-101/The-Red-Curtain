@@ -1,0 +1,15 @@
+characters = {
+    ENG_oswald_mosley = {
+		name = ENG_oswald_mosley
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ENG_oswald_mosley
+			}
+		}
+		country_leader = {
+			ideology = anglo_saxonism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

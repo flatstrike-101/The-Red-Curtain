@@ -1,0 +1,15 @@
+characters = {
+    SPR_manuel_diez = {
+		name = SPR_manuel_diez
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SPR_manuel_diez
+			}
+		}
+		country_leader = {
+			ideology = classical_nationalism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

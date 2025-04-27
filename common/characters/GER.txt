@@ -1,0 +1,15 @@
+characters = {
+    GER_otto_strasser = {
+		name = GER_otto_strasser
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GER_otto_strasser
+			}
+		}
+		country_leader = {
+			ideology = strasserism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

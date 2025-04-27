@@ -1,0 +1,15 @@
+characters = {
+    USA_george_wallace = {
+		name = USA_george_wallace
+		portraits = {
+			civilian = {
+				large = GFX_portrait_USA_george_wallace
+			}
+		}
+		country_leader = {
+			ideology = classical_liberalism
+			expire = "1980.1.1.1"
+			id = -1
+		}
+	}
+}

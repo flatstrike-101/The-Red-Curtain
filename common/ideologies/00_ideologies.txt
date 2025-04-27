@@ -193,7 +193,7 @@ ideologies = {
 			national_communism = {
 			}
 
-			maoism = {
+			maoism_ideology = {
 			}
 		}
 
@@ -247,6 +247,9 @@ ideologies = {
 			}
 
 			classical_fascism = {
+			}
+
+			salazarism = {
 			}
 		}
 

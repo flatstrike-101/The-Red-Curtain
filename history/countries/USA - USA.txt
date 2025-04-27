@@ -1,5 +1,7 @@
 capital = 375 # Houston
 
+recruit_character = USA_george_wallace
+
 set_politics = {
 	ruling_party = liberalism
 	last_election = "1966.11.17"
